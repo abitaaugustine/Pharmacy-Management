@@ -43,3 +43,7 @@ By delivering a consolidated, user-friendly, and data-driven platform, the Pharm
 ### Relational database schema
 ![Relational Database Schema](images/Relational%20Database%20Schema.png)
 
+
+
+### How to run?
+Clone the repository and run `go run main.go`
